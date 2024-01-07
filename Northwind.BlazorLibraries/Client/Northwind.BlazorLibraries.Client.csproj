@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
@@ -17,6 +17,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\Shared\Northwind.BlazorLibraries.Shared.csproj" />
+        <ProjectReference Include="..\..\..\chapter02\Northwind.Common.EntityModels.SqlServer\Northwind.Common.EntityModels.SqlServer.csproj"/>
     </ItemGroup>
 
     <ItemGroup>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.BlazorLibraries.Server", "Northwind.BlazorLibraries\Server\Northwind.BlazorLibraries.Server.csproj", "{EB557CAA-3490-4E5C-A524-2ECC8381895B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.BlazorLibraries.Server", "Northwind.BlazorLibraries\Server\Northwind.BlazorLibraries.Server.csproj", "{EB557CAA-3490-4E5C-A524-2ECC8381895B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.BlazorLibraries.Client", "Northwind.BlazorLibraries\Client\Northwind.BlazorLibraries.Client.csproj", "{4829B2A2-813C-4E07-BF2F-528E627A9E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.BlazorLibraries.Client", "Northwind.BlazorLibraries\Client\Northwind.BlazorLibraries.Client.csproj", "{4829B2A2-813C-4E07-BF2F-528E627A9E6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.BlazorLibraries.Shared", "Northwind.BlazorLibraries\Shared\Northwind.BlazorLibraries.Shared.csproj", "{3922E171-24FE-4FCC-B9DA-315382CDB4C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.BlazorLibraries.Shared", "Northwind.BlazorLibraries\Shared\Northwind.BlazorLibraries.Shared.csproj", "{3922E171-24FE-4FCC-B9DA-315382CDB4C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
